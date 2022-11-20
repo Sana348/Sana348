@@ -1,3 +1,4 @@
+![logo](https://github.com/Sana348/Sana348/blob/main/Hi%2C%20I'm%20Sana%20Parveen%20A%20Developer%20who%20likes%20to%20code.jpg)
 <h1 align="center">Hi 👋, I'm Sana Parveen</h1>
 <h2 align="left"> ✨ About me </h2>
 <h3 align="left">A passionate frontend developer from India. I'm highly self motivated person , who likes to take initiative and seek out new challenges. I love learning new things and yes, I'm a fast learner too. I always look upon ways to improve myself in all aspects and I love coding and web Development.
