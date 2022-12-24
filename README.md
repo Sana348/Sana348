@@ -9,7 +9,7 @@ I'm looking for more opportunites to contribute to open source. I have done seve
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Cloning the sites**
+- 🔭 I’m currently working on **Building frontend Projects**
 
 - 🌱 I’m currently learning **React js**
 
