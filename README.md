@@ -1,7 +1,9 @@
+![Cover Image](https://github.com/Sana348/Sana348/blob/main/Hi%2C%20I'm%20Sana%20Parveen%20A%20Developer%20who%20likes%20to%20code1.png)
+
 <h1 align="center">Hi there, I'm Sana Parveen 👋</h1>
 
 <h2 align="left">🌟 About Me</h2>
-<h3 align="left">Passionate frontend developer from India, driven by curiosity and a love for problem-solving. I'm always eager to explore new technologies and frameworks, seeking opportunities to make meaningful contributions to innovative projects.</h3>
+<h3 align="left">I'm a dedicated frontend developer with a passion for crafting engaging user experiences. Constantly pushing boundaries, I seek to contribute to innovative projects and collaborate with like-minded individuals.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/AlUkiGkR2j8AAAAM/giphy.gif">
 
@@ -11,12 +13,12 @@
   <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> 
 </p>
 
-- 🔭 I’m currently working on **building exciting frontend projects**
-- 🌱 I’m currently learning **the ins and outs of React.js**
-- 👯 I’m looking to collaborate on **open-source initiatives**
-- 🤝 I’m seeking help with **deployment tools**
+- 🔭 Currently working on **exciting frontend projects**
+- 🌱 Learning **React.js to elevate my skills**
+- 👯 Open to collaborate on **innovative open-source initiatives**
+- 🤝 Seeking assistance with **streamlining deployment workflows**
 - 💬 Ask me about **anything related to React, HTML, CSS, or JS**
-- 📫 How to reach me: **misana348@gmail.com**
+- 📫 Reach me at **misana348@gmail.com**
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
